@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+.hide {
+  display: none;
+}
+.como-note {
+  font-style: italic;
+}
+.map-widget-form .multi-message {
+  font-weight: bold;
+}
+.map-widget-form .single textarea {
+  height: 30px;
+}
+.map-widget-form .single .multi-message {
+  display: none;
+}
+.map-widget-form .multi textarea {
+  height: 100px;
+}
+.map-widget-form .multi .multi-message {
+  display: block;
+}

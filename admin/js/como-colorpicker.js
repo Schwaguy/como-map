@@ -1,0 +1,1 @@
+!function($){"use strict";$(function(){$(".colorpicker").wpColorPicker()})}(jQuery);

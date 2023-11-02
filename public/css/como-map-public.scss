@@ -1,0 +1,30 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+// map
+.map-chart {
+	.progress-contain {
+		background: rgb(228,228,228);
+		height: 25px;
+		overflow: hidden;
+		.progress {
+			background: none;
+			position: relative; 
+			overflow: visible;
+			width: 100%;
+			height: 100%;
+			.progress-bar {
+				position: relative;
+				height: 100%;
+				width: 0%;
+				-webkit-transition: all ease 1s;
+				   -moz-transition: all ease 1s;
+						transition: all ease 1s;
+				&.expanded {
+					width: 100%;
+				}
+			}
+		}
+	}
+}
