@@ -33,3 +33,4 @@ Plugin to enable embedding custom Google Maps
 1.2.2 - Added Ultra Lite Grey style template
 1.2.3 - Added ability to override Auto-Center when showing Info Box
 1.2.4 - Added formatPhoneLink() function so plugin can be used separate from Como Themes
+1.2.5 - Removed errant Google API Key
