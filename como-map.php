@@ -383,7 +383,6 @@ function comomap_img_sizes() {
 /* ##################### Shortcode to place Google Map ##################### */
 // Usage: [comomap maps=# OF MAPS maptype=STATIC/DYNAMIC mapid=MAP_ELEMENT_ID width=WIDTH height=HEIGHT labelclass=LABEL_CLASS label=LABEL address=STREET_ADDRESS lat=Latitude long=LONGITUDE centerlat=CENTER_LATITUDE centerlong=CENTER_LONGITUDE googlelink=GOOGLE_LINK binglink=GOOGLE_LINK content=INFO_BOX_CONTENT phone=PHONE countrycode=COUNTRY_CODE zoom=ZOOM style=1-10 icon=icon animate=TRUE/FALSE markercolor=COLOR showinfo=FALSE showon=click/hover]
 if (!isset($GLOBALS['footScript'])) { $GLOBALS['footScript'] = ''; }
-//if (!isset($googleAPI)) { $googleAPI = 'AIzaSyDxk2gwtC63ajDxs5_MoerOKxRGKeWc-qA'; }
 class Como_Map_Shortcode {
 	static $add_script;
 	static $add_style;
