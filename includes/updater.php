@@ -14,7 +14,7 @@ class fxUpdater_comomap_Updater{
 			'server'  => 'https://wordpress.comocreative.com/',
 			'type'    => 'plugin',
 			'id'      => 'como-map/como-map.php',
-			'api'     => '1.2.5',
+			'api'     => '1.2.7',
 			'post'    => array(),
 		);
 		/* Admin Init */

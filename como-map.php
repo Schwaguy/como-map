@@ -2,7 +2,7 @@
 /*
 Plugin Name: Como Map
 Plugin URI: http://www.comocreative.com/
-Version: 1.2.5
+Version: 1.2.7
 Author: Como Creative LLC
 Description: Enable custom Google Map embedding - Shortcode: [comomap maps=# OF MAPS maptype=STATIC/DYNAMIC mapid=MAP_ELEMENT_ID width=WIDTH height=HEIGHT labelclass=LABEL_CLASS label=LABEL address=STREET_ADDRESS lat=Latitude long=LONGITUDE centerlat=CENTER_LATITUDE centerlong=CENTER_LONGITUDE googlelink=GOOGLE_LINK binglink=GOOGLE_LINK content=INFO_BOX_CONTENT phone=PHONE countrycode=COUNTRY_CODE zoom=ZOOM style=1-10 icon=icon animate=TRUE/FALSE markercolor=COLOR showinfo=FALSE showon=click/hover]
 */

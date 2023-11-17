@@ -34,3 +34,5 @@ Plugin to enable embedding custom Google Maps
 1.2.3 - Added ability to override Auto-Center when showing Info Box
 1.2.4 - Added formatPhoneLink() function so plugin can be used separate from Como Themes
 1.2.5 - Removed errant Google API Key
+1.2.6 - Part 1 of moving to new repository
+1.2.7 - Part 2 of moving to new repository
